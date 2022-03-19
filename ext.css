@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+}
+.head{
+    text-align: center;
+    font-size: 2rem;
+}
+.head-1,.head-2{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.head p{
+    display: inline;
+    font-size: small;
+}
+#head{
+    background-color: beige;
+}
+#header-section{
+    background-color: blanchedalmond;
+}
+.content{
+    padding-left: 450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+    
+    
+}
+.co-content{
+    padding-left: 620px;
+}
+.content .con-in{
+    padding-left: 50px;
+    font-size: 1rem;
+    font-weight: 0;
+    
+}
+#wel{
+    text-align: center;
+}
+#tnq{
+    text-align: right;
+    padding-right: 450px;
+}
+div{
+    border: 10px solid green;
+}
